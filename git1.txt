@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is AC5B-3CA2
-
- Directory of C:\Users\Kumar kush ranjan\Desktop\git
-
-12-04-2019  08:57 AM    <DIR>          .
-12-04-2019  08:57 AM    <DIR>          ..
-12-04-2019  08:57 AM                 0 git1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  183,827,369,984 bytes free
+this is a text file
